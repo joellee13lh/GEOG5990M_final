@@ -57,7 +57,7 @@ The analysis builds upon established geospatial methodologies, including:
 - Spatial visualization best practices (Mennis, 2006; Crameri et al., 2020)
 
 ## Author
-Student ID: 201896942——Zihao Li
+Student ID: 201896942
 
 ## Acknowledgement
 I acknowledge the use of Claude 3.7 Sonnet (Anthropic, https://claude.ai/) to assist in debugging code and optimizing data visualization approaches.
