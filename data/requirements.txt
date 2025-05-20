@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+pyproj
+contextily
+geoplot
+shapely
+scikit-learn
+statsmodels
+gdown
+zipfile36
