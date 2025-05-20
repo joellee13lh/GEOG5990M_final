@@ -58,3 +58,6 @@ The analysis builds upon established geospatial methodologies, including:
 
 ## Author
 Student ID: 201896942——Zihao Li
+
+## Acknowledgement
+I acknowledge the use of Claude 3.7 Sonnet (Anthropic, https://claude.ai/) to assist in debugging code and optimizing data visualization approaches.
